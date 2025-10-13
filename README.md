@@ -1,5 +1,3 @@
-# hipermos-freecad-tools
-Modify of freeCAD source code
 # [hipermos-enhanced-freecad]  
 > *An derivative of FreeCAD, not affiliated with the FreeCAD official project.*  
 - **Based on:** FreeCAD (LGPL-2.1) [https://github.com/FreeCAD/FreeCAD/releases/tag/0.19.2]  
